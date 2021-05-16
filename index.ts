@@ -1,3 +1,5 @@
+//Este archivo fue creado en el desafio número 4 
+//pero fue sincronizado en el desafio siguiente.
 class Departamento {
   nombre: string;
   dueño: string;
